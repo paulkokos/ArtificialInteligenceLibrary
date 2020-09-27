@@ -11,4 +11,5 @@ class Algorithms {
 };
 
 
+
 #endif //ARTIFICIALINTELIGENCELIBRARY_ALGORITHMS_HPP
