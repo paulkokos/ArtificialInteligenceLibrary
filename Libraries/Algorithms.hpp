@@ -7,6 +7,12 @@
 
 
 class Algorithms {
+public:
+
+
+
+private:
+
 
 };
 
