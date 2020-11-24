@@ -1,2 +1,2 @@
 # ArtificialIntelligenceLibrary
-Artificial Intelligence Library in C++ for humman beings.
+Artificial Intelligence Library in C++.
